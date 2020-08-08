@@ -1,0 +1,9 @@
+com\sasstify\avro\serialization\AvroSerializer.class
+com\sasstify\avro\model\ClientIdentifier$Builder.class
+com\sasstify\avro\model\AvroHttpRequest$Builder.class
+com\sasstify\avro\model\ClientIdentifier$1.class
+com\sasstify\avro\model\Active.class
+com\sasstify\avro\model\AvroHttpRequest.class
+com\sasstify\avro\serialization\AvroDeserializer.class
+com\sasstify\avro\model\ClientIdentifier.class
+com\sasstify\avro\model\AvroHttpRequest$1.class

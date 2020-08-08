@@ -1,0 +1,2 @@
+com\sasstify\avro\suites\AllUnitTest.class
+com\sasstify\avro\serialization\AvroSerealizerDeSerealizerUnitTest.class
